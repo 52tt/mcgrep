@@ -1,0 +1,2 @@
+# mcgrep
+Multi-color grep
